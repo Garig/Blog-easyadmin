@@ -1,5 +1,5 @@
 # Blog Symfony4.2 avec EasyAdmin #
-Par Alex
+Par Alex-H
 -------------
 * clone the repository
 * install the dependencies: composer i
