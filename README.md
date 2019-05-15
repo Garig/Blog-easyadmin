@@ -1,6 +1,6 @@
-# Blog Symfony4.2 avec EasyAdmin #
+# Blog Symfony4.2 avec EasyAdmin 
 Par Alex-H
--------------
+----------
 * clone the repository
 * install the dependencies: composer i
 * create the database: **php bin/console doctrine:database:create**
