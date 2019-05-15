@@ -5,3 +5,4 @@ Par Alex-H
 * install the dependencies: **composer i**
 * create the database: **php bin/console doctrine:database:create**
 * load the migration: **php bin/console doctrine:migrations:migrate**
+* Enjoy :-)
